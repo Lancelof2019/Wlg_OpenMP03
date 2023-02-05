@@ -1,0 +1,1 @@
+pgc++    -o result_nvpcomp46.out ../functionspace/antiInverseImage.cpp ../functionspace/distanceTransform.cpp ../functionspace/makeImageGrayScale.cpp ../functionspace/removeholesopt.cpp  ../functionspace/processImage.cpp  ../functionspace/watershed.cpp  ../mainspace/WaterShedAlg.cpp `pkg-config opencv4 --cflags --libs`  -mp -Minfo=mp 
