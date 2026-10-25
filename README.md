@@ -102,3 +102,5 @@ These findings motivate improvements to memory layout, allocation patterns, and 
 The technologies above describe the thesis implementation. Exact dependency versions, build targets, executable names, and input/output arguments must be documented from the corresponding source code before a reproducible quick-start command can be provided.
 
 This README summarizes the thesis; it does not imply that source code, test images, or build scripts are included in the repository.
+
+https://www10.cs.fau.de/publications/theses/2023/Master_ZhangLiang.pdf
